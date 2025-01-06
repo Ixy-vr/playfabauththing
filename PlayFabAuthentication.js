@@ -1,5 +1,5 @@
 {
-    "MOTD": "<color=orange>WELCOME</color> <color=red>TO</color> <color=maroon>DRE1MER</color> <color=yellow>TAG</color>\n<color=grey>THANKS FOR PLAYING!</color>\n\n<color=yellow>IF YOU ENJOY THIS GAME, JOIN THE DISCORD TO SHOW SUPPORT AND RECOMMEND YOUR UPDATE IDEAS!</color>\n\n<color=purple>OWNER: </color><color=grey>BRODY</color>\n<color=magenta>CREDITS TO: DRE1MER, POLAR, REZ</color>\n<color=white>DISCORD.GG/DRE1MERTAG</color>",
+    "MOTD": "<WELCOME</color>",
     "PrivacyPolicy_2023.05.16": "https://www.playfab.com/legal/privacy/",
     "TOBAlreadyOwnCompTxt": "YOU OWN THE BUNDLE ALREADY! THANK YOU!",
     "TOBAlreadyOwnPurchaseBtnTxt": "-",
